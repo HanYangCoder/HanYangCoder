@@ -1,5 +1,37 @@
-### Hi there 👋
+## System.out.println("Hello there!");
 
+Good day there visitor! :wave:
+I'm **Hans Christian Herrera** and I am an Information Technology student in West Visayas State University.
+And as of 2020 I am in my third year in college and I'm majoring in Software Technologies.
+
+:round_pushpin: I was born and currently living here in Iloilo City, Philippines.
+
+I aspire to be a professional programmer someday but more importantly I want to contribute to the open-source world. 
+I've just started out using GitHub and I'm in the process of learning it along with Git. Though currently my machine is a 
+Windows 10 OS, I do wanna try out Linux someday, specifically the Ubuntu distro. :penguin:
+
+:computer: 
+### Here are some Languages/Frameworks/Development skills I know and some that I'm in the process of learning:
+- Java
+- C++
+- C#
+- HTML/CSS
+- PHP
+- MySQL
+- Arduino
+- Flutter and Dart
+
+:books:
+### My projects:
+- Currently I don't have one in mind yet but I'll keep this updated!
+
+:coffee:
+### Facts about me:
+- I'm a coffee and tea lover.
+- I only learned to code when I started college, my first language was C++ but I like to work on Java.
+- I was a STEM student in my senior high school.
+- I am the eldest sibling and I have two other younger siblings.
+- Joining the IT world wasn't my first choice, nor was it in any of my choices, though I love where I am right now.
 <!--
 **HansoYang647/HansoYang647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
