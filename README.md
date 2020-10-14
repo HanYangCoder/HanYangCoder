@@ -35,6 +35,7 @@ Windows 10 OS, I do wanna try out Linux someday, specifically the Ubuntu distro.
 - Joining the IT world wasn't my first choice, nor was it in any of my choices, though I love where I am right now.
 
 :telephone_receiver: **Contact me here!**
+
 Facebook: Hans Christian Herrera https://www.facebook.com/Hahahahahahansssss/
 Email: hanschristianherrera@gmail.com
 <!--
