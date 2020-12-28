@@ -7,12 +7,9 @@ And as of 2020 I am in my third year in college and I'm majoring in Software Tec
 
 :round_pushpin: I was born and currently living here in **Iloilo City, Philippines**.
 
-I aspire to be a professional programmer someday but more importantly I want to contribute to the open-source world. 
-I've just started out using GitHub and I'm in the process of learning it along with Git. Though currently my machine is a 
-Windows 10 OS, I do wanna try out Linux someday, specifically the Ubuntu distro. :penguin:
+I aspire to be a professional programmer someday but more importantly I want to contribute to the open-source world.
 
-
-:computer: **Here are some Languages/Frameworks/Development skills I know and some that I'm in the process of learning:**
+:computer: **Here are some Tech skills I know and some that I'm in the process of learning:**
 - Java
 - C++
 - C#
@@ -21,14 +18,16 @@ Windows 10 OS, I do wanna try out Linux someday, specifically the Ubuntu distro.
 - MySQL
 - Arduino
 - Flutter and Dart
+- Git and Github
 
+I'm currently dual-booting Windows 10 and Pop! OS which is a Linux distro :penguin:
 
 :books: **My projects:**
 - Currently I don't have one in mind yet but I'll keep this updated!
 
 
 :coffee: **Facts about me:**
-- I'm a coffee and tea lover.
+- Coffee and tea lover.
 - I only learned to code when I started college, my first language was C++ but I like to work on Java.
 - I was a STEM student in my senior high school.
 - I am the eldest sibling and I have two other younger siblings.
