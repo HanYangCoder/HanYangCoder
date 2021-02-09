@@ -23,7 +23,7 @@ I aspire to be a professional programmer someday but more importantly I want to 
 I'm currently dual-booting Windows 10 and Pop! OS which is a Linux distro :penguin:
 
 :books: **My projects:**
-- Currently I don't have one in mind yet but I'll keep this updated!
+- Online Hospital Management System
 
 
 :coffee: **Facts about me:**
