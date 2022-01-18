@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there+fellow+coder!;I'm+Hans;Feel+free+to+explore!)](https://git.io/typing-svg)
 # Greetings fellow maker! :wave: :robot:
 
 I'm **Hans Christian Herrera** but you can call me Hans!
@@ -5,12 +6,12 @@ Currently, I'm a fourth year student developer in college and I'm majoring in So
 
 *Aspiring software developer specializing in back-end technologies and a future FOSS contributor!*
 
-:round_pushpin: **Iloilo City, Philippines**.
+🇵🇭 **Proud Filipino Coder**
 
 > "Talk is cheap, show me the code."
      - Linus Torvalds
 
-## :computer: Here are the tech skills that I know and am learning:
+## 🖥️ Here are the tech skills that I know and am learning:
 
 |Languages|Technologies|Tools|
 | --------- | --------- | --------- |
@@ -23,19 +24,19 @@ Currently, I'm a fourth year student developer in college and I'm majoring in So
 
 My current workstation setup is a dual-boot between Pop! OS and Windows 10.
 
-## :books: **My projects and collabs:**
+## 🛰️ **Some stuff I do/did:**
 - Fish Egg and Fries Counting Using Image Processing with Forecasting (Our group's thesis)
 - Online Hospital Management System
 - Online Shopping Site
 
-## :coffee: **Get to know me!**
+## 🔥 **Get to know me!**
 - I'm a Linux and FOSS advocate (I use Pop! OS for mostly everything and Windows for gaming)
 - Coffee and tea brings me the code.
 - I only learned to code when I started college and my first language was C++.
 - I didn't choose the tech life, the tech life chose me.
 - Anime lover here! Eighty-Six, Vivy, Re: Zero and the Fate Series are a few of my favorite!
 
-## :telephone_receiver: **Collabs? Need help? Reach out to me here!**
+## 🎆 **Let's reach out!**
 - [Facebook](https://www.facebook.com/Hahahahahahansssss/)
 - Email: hanschristian.herrera@wvsu.edu.ph
 <!--
