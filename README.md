@@ -1,41 +1,41 @@
-## System.out.println("Hello there!");
+# Greetings fellow maker! :wave: :robot:
 
-### Good day there visitor! :wave:
+I'm **Hans Christian Herrera** but you can call me Hans!
+Currently, I'm a fourth year student developer in college and I'm majoring in Software Technologies.
 
-I'm **Hans Christian Herrera** and I am an Information Technology student in West Visayas State University.
-And as of now I am in my third year in college and I'm majoring in Software Technologies.
+*Aspiring software developer specializing in back-end technologies and a future FOSS contributor!*
 
 :round_pushpin: **Iloilo City, Philippines**.
-
-:computer: **Here are some Tech skills I know and some that I'm in the process of learning:**
-- Java
-- C++
-- C#
-- HTML/CSS
-- PHP
-- MySQL
-- Arduino
-- Flutter and Dart
-- Git and Github
-
-I'm currently dual-booting Windows 10 and Pop! OS which is a Linux distro :penguin:
-
 
 > "Talk is cheap, show me the code."
      - Linus Torvalds
 
+## :computer: Here are the tech skills that I know and am learning:
 
-:books: **My projects and collabs:**
+|Languages|Technologies|Tools|
+| --------- | --------- | --------- |
+|Java|Linux|Netbeans|
+|PHP|MySQL|VSCodium|
+|Flutter and Dart|MariaDB|VSCode|
+|HTML/CSS|VirtualBox|Git|
+|C++|GNOME Boxes|Github|
+|Rust|OpenCV||
+
+My current workstation setup is a dual-boot between Pop! OS and Windows 10.
+
+## :books: **My projects and collabs:**
+- Fish Egg and Fries Counting Using Image Processing with Forecasting (Our group's thesis)
 - Online Hospital Management System
 - Online Shopping Site
 
-:coffee: **Facts about me:**
-- Coffee and tea lover.
+## :coffee: **Get to know me!**
+- I'm a Linux and FOSS advocate (I use Pop! OS for mostly everything and Windows for gaming)
+- Coffee and tea brings me the code.
 - I only learned to code when I started college and my first language was C++.
-- I was a STEM student in my senior high school.
-- Joining the IT world wasn't my first choice, nor was it in any of my choices, though I love where I am right now.
+- I didn't choose the tech life, the tech life chose me.
+- Anime lover here! Eighty-Six, Vivy, Re: Zero and the Fate Series are a few of my favorite!
 
-:telephone_receiver: **Collabs? Need help? Contact me here!**
+## :telephone_receiver: **Collabs? Need help? Reach out to me here!**
 - [Facebook](https://www.facebook.com/Hahahahahahansssss/)
 - Email: hanschristian.herrera@wvsu.edu.ph
 <!--
