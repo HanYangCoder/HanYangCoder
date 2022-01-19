@@ -24,10 +24,10 @@ Currently, I'm a fourth year student developer in college and I'm majoring in So
 
 My current workstation setup is a dual-boot between Pop! OS and Windows 10.
 
-## 🛰️ **Some stuff I do/did:**
-- [Fish Egg and Fries Counting Using Image Processing with Forecasting (Our group's thesis)](https://github.com/HanYangCoder/javaimgproc-testbed)
+## 🛰️ **Some stuff I did and am currently working on:**
+- [Fish Egg and Fries Counting Using Image Processing with Forecasting](https://github.com/HanYangCoder/javaimgproc-testbed) (Undergraduate thesis)
 - [Online Hospital Management System](https://github.com/HanYangCoder/web-hospital-management-system)
-- [Online Shopping Site](https://github.com/HanYangCoder/Shopparel-Website-Repo)
+- [Shopparel: An Online Shopping Site](https://github.com/HanYangCoder/Shopparel-Website-Repo)
 
 ## 🔥 **Get to know me!**
 - I'm a Linux and FOSS advocate (I use Pop! OS for mostly everything and Windows for gaming)
