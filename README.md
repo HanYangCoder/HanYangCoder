@@ -30,7 +30,7 @@ My current workstation setup is a dual-boot between Pop! OS and Windows 10.
 - [Shopparel: An Online Shopping Site](https://github.com/HanYangCoder/Shopparel-Website-Repo)
 
 ## 🔥 **Get to know me!**
-- I'm a Linux and FOSS advocate (I use Pop! OS for mostly everything and Windows for gaming)
+- I'm a Linux and FOSS advocate (I use Pop! OS for mostly everything but a bit of Windows too for some games)
 - Coffee and tea brings me the code.
 - I only learned to code when I started college and my first language was C++.
 - I didn't choose the tech life, the tech life chose me.
