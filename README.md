@@ -16,13 +16,13 @@ Currently, I'm a fourth year student developer in college and I'm majoring in So
 |Languages|Technologies|Tools|
 | --------- | --------- | --------- |
 |Java|Linux|Netbeans|
-|PHP|MySQL|VSCodium|
-|Flutter and Dart|MariaDB|VSCode|
-|HTML/CSS|VirtualBox|Git|
+|PHP|WordPress|VSCodium|
+|HTML/CSS/JS|MySQL/MariaDB|VSCode|
+|Flutter and Dart|VirtualBox|Git|
 |C++|GNOME Boxes|Github|
 |Rust|OpenCV||
 
-My current workstation setup is a dual-boot between Pop! OS and Windows 10.
+My current workstation setup is openSUSE Tumbleweed.
 
 ## 🛰️ **Some stuff I did and am currently working on:**
 - [Fish Egg and Fries Counting Using Image Processing with Forecasting](https://github.com/HanYangCoder/javaimgproc-testbed) (Undergraduate thesis)
