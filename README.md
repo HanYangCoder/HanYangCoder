@@ -20,7 +20,7 @@ I just graduated in West Visayas State University just this July 2022 as an Info
 |HTML/CSS/JS|MySQL/MariaDB|VSCode|
 |Flutter and Dart|VirtualBox|Git|
 |C++|GNOME Boxes|Github|
-|Rust|OpenCV||
+||OpenCV (Java)||
 
 My current workstation setup is openSUSE Tumbleweed.
 
