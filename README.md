@@ -2,7 +2,7 @@
 # Greetings fellow maker! :wave: :robot:
 
 I'm **Hans Christian Herrera** but you can call me Hans!
-Currently, I'm a fourth year student developer in college and I'm majoring in Software Technologies.
+I just graduated in West Visayas State University just this July 2022 as an Information Technology student majoring in Software Technologies.
 
 *Aspiring software developer specializing in back-end technologies and a future FOSS contributor!*
 
