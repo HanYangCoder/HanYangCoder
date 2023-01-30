@@ -25,15 +25,17 @@ I just graduated in West Visayas State University just this July 2022 as an Info
 My current workstation setup is openSUSE Tumbleweed.
 
 ## 🛰️ **Some stuff I did and am currently working on:**
-- [Fish Egg and Fries Counting Using Image Processing with Forecasting](https://github.com/HanYangCoder/javaimgproc-testbed) (Undergraduate thesis)
-- [Online Hospital Management System](https://github.com/HanYangCoder/web-hospital-management-system)
-- [Shopparel: An Online Shopping Site](https://github.com/HanYangCoder/Shopparel-Website-Repo)
+- [Fish Egg and Fries Counting Using Image Processing with Forecasting](https://github.com/HanYangCoder/javaimgproc-testbed) (Undergraduate thesis made with Java and OpenCV)
+- [Online Hospital Management System](https://github.com/HanYangCoder/web-hospital-management-system) (A school course project on client-server technologies made with PHP)
+- [Shopparel: An Online Shopping Site](https://github.com/HanYangCoder/Shopparel-Website-Repo) (Another school course project for our software engineering class made with Bootstrap and PHP)
+
+I'm also learning more coding on ***FreeCodeCamp!*** Please check out my progress here https://www.freecodecamp.org/HanYangCoder6467
 
 ## 🔥 **Get to know me!**
-- I'm a Linux and FOSS advocate (I use Pop! OS for mostly everything but a bit of Windows too for some games)
-- Coffee and tea brings me the code.
+- I love using Linux and free and open source software! I tend prefer using FOSS products if I can :D
+- I have a superpower where I can turn a cup of coffee into code.
 - I only learned to code when I started college and my first language was C++.
-- I didn't choose the tech life, the tech life chose me.
+- Tech wasn't something I took seriously when I was young, though I wish I did.
 - Anime lover here! Eighty-Six, Vivy, Re: Zero and the Fate Series are a few of my favorite!
 
 ## 🎆 **Let's reach out!**
