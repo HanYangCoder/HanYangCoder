@@ -2,7 +2,7 @@
 # Greetings fellow maker! :wave: :robot:
 
 I'm **Hans Christian Herrera** but you can call me Hans!
-I just graduated in West Visayas State University just this July 2022 as an Information Technology student majoring in Software Technologies.
+I graduated in West Visayas State University last July 2022 as an Information Technology student majoring in Software Technologies.
 
 *Aspiring software developer specializing in back-end technologies and a future FOSS contributor!*
 
@@ -22,12 +22,15 @@ I just graduated in West Visayas State University just this July 2022 as an Info
 |C++|GNOME Boxes|Github|
 ||OpenCV (Java)||
 
-My current workstation setup is openSUSE Tumbleweed.
+My current workstation OS is openSUSE Tumbleweed.
 
 ## 🛰️ **Some stuff I did and am currently working on:**
 - [Fish Egg and Fries Counting Using Image Processing with Forecasting](https://github.com/HanYangCoder/javaimgproc-testbed) (Undergraduate thesis made with Java and OpenCV)
+- [WebCreasher Repo](https://github.com/HanYangCoder/WebCrasher) A combined repo for my web dev projects (will break them down later on!)
 - [Online Hospital Management System](https://github.com/HanYangCoder/web-hospital-management-system) (A school course project on client-server technologies made with PHP)
 - [Shopparel: An Online Shopping Site](https://github.com/HanYangCoder/Shopparel-Website-Repo) (Another school course project for our software engineering class made with Bootstrap and PHP)
+
+Here is my personal website hosted on Github Pages https://hanyangcoder.github.io/ (Spoiler! It's still a work in progress, but please keep looking forward to it!)
 
 I'm also learning more coding on ***FreeCodeCamp!*** Please check out my progress here https://www.freecodecamp.org/HanYangCoder6467
 
