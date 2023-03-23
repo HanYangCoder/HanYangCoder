@@ -26,7 +26,7 @@ My current workstation OS is openSUSE Tumbleweed.
 
 ## 🛰️ **Some stuff I did and am currently working on:**
 - [Fish Egg and Fries Counting Using Image Processing with Forecasting](https://github.com/HanYangCoder/javaimgproc-testbed) (Undergraduate thesis made with Java and OpenCV)
-- [WebCreasher Repo](https://github.com/HanYangCoder/WebCrasher) A combined repo for my web dev projects (will break them down later on!)
+- [WebCrasher Repo](https://github.com/HanYangCoder/WebCrasher) A combined repo for my web dev projects (will break them down later on!)
 - [Online Hospital Management System](https://github.com/HanYangCoder/web-hospital-management-system) (A school course project on client-server technologies made with PHP)
 - [Shopparel: An Online Shopping Site](https://github.com/HanYangCoder/Shopparel-Website-Repo) (Another school course project for our software engineering class made with Bootstrap and PHP)
 
