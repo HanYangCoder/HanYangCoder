@@ -43,8 +43,8 @@ I'm also learning more coding on ***FreeCodeCamp!*** Please check out my progres
 - Anime lover here! Eighty-Six, Vivy, Re: Zero and the Fate Series are a few of my favorite!
 
 ## 🎆 **Let's reach out!**
-- [Facebook](https://www.facebook.com/Hahahahahahansssss/)
-- Email: hanschristian.herrera@wvsu.edu.ph
+- LinkedIn: https://www.linkedin.com/in/hans-christian-herrera-646b39242/
+- Email: hanschristianherrera@gmail.com
 <!--
 **HansoYang647/HansoYang647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
