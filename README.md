@@ -2,9 +2,9 @@
 # Greetings fellow maker! :wave: :robot:
 
 I'm **Hans Christian Herrera** but you can call me Hans!
-I graduated in West Visayas State University last July 2022 as an Information Technology student majoring in Software Technologies.
+I'm a guy who loves to make things using code! I graduated at West Visayas State University last July 2022 with the degree of Information Technology majoring in Software Technologies.
 
-*Aspiring software developer specializing in back-end technologies and a future FOSS contributor!*
+*Aspiring software developer specializing in multiple technologies and a future FOSS contributor!*
 
 🇵🇭 **Proud Filipino Coder**
 
@@ -25,7 +25,7 @@ I graduated in West Visayas State University last July 2022 as an Information Te
 My current workstation OS is openSUSE Tumbleweed.
 
 ## 🛰️ **Some stuff I did and am currently working on:**
-- [Simple React Chat App](https://github.com/HanYangCoder/ReactChatApp)(A simple React Chat App using React, NodeJS, Express, Socket.io)
+- [Simple React Chat App](https://github.com/HanYangCoder/ReactChatApp) (A simple React Chat App using React, NodeJS, Express, Socket.io)
 - [Fish Egg and Fries Counting Using Image Processing with Forecasting](https://github.com/HanYangCoder/javaimgproc-testbed) (Undergraduate thesis made with Java and OpenCV)
 - [WebCrasher Repo](https://github.com/HanYangCoder/WebCrasher) A combined repo for my web dev projects (will break them down later on!)
 - [Online Hospital Management System](https://github.com/HanYangCoder/web-hospital-management-system) (A school course project on client-server technologies made with PHP)
