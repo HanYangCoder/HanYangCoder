@@ -22,7 +22,7 @@ I'm a guy who loves to make things using code! I graduated at West Visayas State
 |Flutter and Dart|GNOME Boxes|Github|
 |C++|OpenCV (Java)||
 
-My current workstation OS is openSUSE Tumbleweed.
+My current workstation OS is Pop!_OS with KDE.
 
 ## 🛰️ **Some stuff I did and am currently working on:**
 - [Simple React Chat App](https://github.com/HanYangCoder/ReactChatApp) (A simple React Chat App using React, NodeJS, Express, Socket.io)
